@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box
+}
+/* body {
+    margin: 0;
+} */
+
+.container {
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+}
+
+h2{
+    position: sticky;
+    top: 0;
+    background:purple;
+    padding: 10px;
+    z-index: 10; 
+    margin-top: 0; 
+}
+
+div p{
+    margin: 15px 0;
+    background-color: lightslategrey;
+    font-size: 22px;
+    text-align: justify;
+}
+div{
+    background-color: lightyellow;
+}
